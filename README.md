@@ -18,6 +18,6 @@ Dizi sıralandıktan sonra [2, 6, 16, 18, 22, 27] halini alır. 18 sayısı dizi
 
 
 #[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
-[2, 3, 5, 8, 7, 9, 4, 15, 6] En küçük sayı 2'dir. 7 ile 2 yer değiştirir.
-[2, 3, 4, 8, 7, 9, 5, 15, 6]İlk iki eleman (2, 3) sıralıdır.Sonraki en küçük sayı 4'tür.4, 5 ile yer değiştirir
-[2, 3, 4, 5, 7, 9, 8, 15, 6] Sonraki en küçük sayı 5'tir. 5, 8 ile yer değiştirir.
+-[2, 3, 5, 8, 7, 9, 4, 15, 6] En küçük sayı 2'dir. 7 ile 2 yer değiştirir.
+-[2, 3, 4, 8, 7, 9, 5, 15, 6]İlk iki eleman (2, 3) sıralıdır.Sonraki en küçük sayı 4'tür.4, 5 ile yer değiştirir
+-[2, 3, 4, 5, 7, 9, 8, 15, 6] Sonraki en küçük sayı 5'tir. 5, 8 ile yer değiştirir.
