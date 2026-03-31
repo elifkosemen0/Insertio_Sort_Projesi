@@ -3,10 +3,11 @@
 Dizi: [22, 27, 16, 2, 18, 6]
 Sıralama Aşamaları
 - [22, 27, 16, 2, 18, 6] -> 27, 22'den büyüktür, yerinde kalır.
-- [16, 22, 27, 2, 18, 6] -> 16, 22 ve 27'den küçük olduğu için en başa yerleşir.
+- [16, 22, 27, 2, 18, 6] -> 16, 22 ve 27 ile kıyaslanır,ikisindende küçük olduğu için en başa yerleşir.
 - [2, 16, 22, 27, 18, 6] -> 2, tüm sayılardan küçük olduğu için en başa yerleşir.
 - [2, 16, 18, 22, 27, 6] -> 18, 16 ile 22 arasına yerleşir.
 - [2, 6, 16, 18, 22, 27] -> 6, 2 ile 16 arasına yerleşir ve sıralama biter.
+
  
  #2. Big-O Gösterimi
 - Average Case: O(n^2)
